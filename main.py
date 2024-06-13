@@ -1,7 +1,6 @@
 import json
 import sys
 from read import read
-import time
 
 chars = "".join(chr(i) for i in range(255))
 
@@ -93,7 +92,6 @@ def main():
         loop_index += 1
 
     print(output)
-    print(cells)
 
 if __name__ == "__main__":
     main()
