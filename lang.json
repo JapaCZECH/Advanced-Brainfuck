@@ -1,0 +1,28 @@
+{
+    "settings": {
+        "start_cells": 1
+    },
+    "keywords": {
+        "increment": "+",
+        "decrease": "-",
+        "left": "\\",
+        "right": "/",
+        "loop_start": "{",
+        "loop_end": "}",
+        "output": "^",
+        "pointer_pos": "P",
+        "raw_output": "R",
+        "cell_count": "C",
+        "space": "|",
+        "mem_1": "1",
+        "mem_2": "2",
+        "add": "A",
+        "subtract": "S",
+        "divide": "D",
+        "multiply": "M",
+        "load_mem1":"!",
+        "load_mem2": "@",
+        "jump": "J",
+        "end": "*"
+    }
+}
